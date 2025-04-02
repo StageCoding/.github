@@ -1,7 +1,6 @@
-# Stage Coding
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/StageCoding/.github/main/profile/logo.svg" alt="Stage Coding Logo" width="400"/>
+  <br/>
   <br/>
   <br/>
 
